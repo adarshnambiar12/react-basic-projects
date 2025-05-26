@@ -50,3 +50,5 @@ To get started with any of the projects in this repo, follow these steps:
 ### Contributing
 
 Feel free to fork this repo, open issues, and submit pull requests if you'd like to contribute.
+
+© 2025 Adarsh Nambiar. All rights reserved.
