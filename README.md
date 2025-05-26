@@ -17,7 +17,7 @@ A collection of simple React projects to learn and practice fundamental React co
 - **Project 11:** Card using API
 - **Project 12:** Expense Tracker
 - **Project 13:** Add To Cart Functionality
-- **Project 13:** React Router Navbar
+- **Project 14:** React Router Navbar
 
 ### Prerequisites
 
